@@ -4,6 +4,7 @@
 #
 #   include rdio
 
+
 class adobe_application_manager {
   package { 'Adobe Application Manager':
     provider => 'appdmg',
