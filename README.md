@@ -1,9 +1,9 @@
-# Rdio Puppet Module for Boxen
+# Adobe Application Manager Puppet Module for Boxen
 
 ## Usage
 
 ```puppet
-include rdio
+include adobe_application_manager
 ```
 
 ## Required Puppet Modules
